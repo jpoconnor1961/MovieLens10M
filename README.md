@@ -12,6 +12,6 @@ The data used to develop the model was the MovieLens 10M, which is a stable benc
 
 [^1]:Tikhonov Regularized Left-Inverse Matrix (TRLIM)
 [^2]:Gareth et al. (2021), *An Introduction to Statistical Learning (2nd Ed.),* pp. 256-259
-[^3]:Root Mean Squared Error (RMSE): \\sqrt{\\frac{1}{n}\\sum_1^n(\\text{rating}-\\text{prediction})^2}  where n = total number of items rated & predicted.
+[^3]:Root Mean Squared Error (RMSE): '\\sqrt{\\frac{1}{n}\\sum_1^n(\\text{rating}-\\text{prediction})^2}'  where n = total number of items rated & predicted.
 [^4]:Singular Value Decomposition - Principal Component Analysis (SVD-PCA)
 [^5]:In this paper, "\(L_2\) regularization" refers to the square of the Euclidean (\(L^2\)) norm, i.e., \(||x||_2^2\), see Ng, Andrew Y. (2004).  In this context, "Tikhonov" refers to a \(\lambda_T\) parameter in the form of a Lagrangian multiplier.
