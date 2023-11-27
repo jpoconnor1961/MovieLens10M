@@ -3,7 +3,7 @@ Download & Install Instructions for the submitted MovieLens Project Folder/Files
 - In the github MovieLens10M repository, click on the green button that says "Code", and then click on the "Download ZIP" choice in the dropdown menu.
 - In your FileManager, extract the zip folder "MovieLens10M-main" that was downloaded.  This will create a new "MovieLens10M-main" folder that will contain another nested "MovieLens10M-main" folder that will contain a "harvard_oconnor_movie" folder which contains all of the project files.
 - In your FileManager, Copy or Move the "harvard_oconnor_movie" folder (which contains all of the project files) to the Project folder for your R application.
-- In your R application, select "New Project" and then select an "Existing Directory".  Next, browse/navigate to the "harvard_oconnor_movie" folder to select that as the working directory, and then select the "Create Project" button at the bottom-right-side of the dialog box.
+- In your R application, select "New Project" and then select an "Existing Directory".  Next, browse/navigate to the "harvard_oconnor_movie" folder to select that as the working directory, and then select the "Create Project" button at the bottom-right-side of the wizard dialog box.
 - The "harvard_oconnor_movie" working directory folder in your R application will contain the following:
    - harvard_oconnor_movie_PDF file
    - harvard_oconnor_movie_Rcode file
