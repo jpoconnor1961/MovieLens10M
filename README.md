@@ -1,3 +1,4 @@
+Download & Install Instructions for Project Folder/Files in R:
 - In your web browser enter the following URL into the address bar:  https://github.com/jpoconnor1961/MovieLens10M
 - In the GitHub MovieLens10M repository, click on the green button that says "Code", and then click on the "Download ZIP" choice in the dropdown menu.
 - In your FileManager, extract the zip folder "MovieLens10M-main" that was downloaded.  This will create a new "MovieLens10M" folder that will contain another nested "MovieLens10M" folder that will contain a "harvard-oconnor-movie" folder which contains all the project files.
